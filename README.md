@@ -64,7 +64,7 @@ Hands-on cybersecurity exercises focused on:
 
 ## 📫 Connect With Me
 
-* LinkedIn: linkedin.com/in/yordanos-temare
+* LinkedIn: www.linkedin.com/in/yordanostemare
 * Portfolio: yordanos-temare.netlify.app
 
 ---
