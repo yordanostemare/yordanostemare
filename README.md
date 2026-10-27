@@ -41,7 +41,15 @@ Hands-on cybersecurity exercises focused on:
 * Vulnerability assessment
 * Linux administration
 * Security testing
+  
+### 🌿 Community Plastic Waste & Water Pollution Project
+* Active Project & 1st Place Winner – Youth Environmental Innovation Pitch Showcase
+* Focus: Designing and developing community waste management solutions, plastic pollution mitigation, and water protection strategies.
 
+### 🌐 Youth Leadership & Digital Governance Initiatives
+* Active Participant: Engagement in youth-led forums focusing on cybersecurity impact, digital governance, and digital health innovation.
+* Focus: Advocacy for digital trust, youth empowerment in technology, and inclusive digital infrastructure across Africa.
+  
 ## 📚 Currently Learning
 
 * Advanced Cybersecurity
